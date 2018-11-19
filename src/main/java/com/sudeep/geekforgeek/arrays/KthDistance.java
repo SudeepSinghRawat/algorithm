@@ -10,6 +10,9 @@ import com.sudeep.input.Scan;
 public class KthDistance {
 
 	public static void main(String[] args) throws IOException {
+		
+		System.out.println(10 >> 1);
+		
 		Print print = new Print();
 		Scan scan = new Scan();
 
